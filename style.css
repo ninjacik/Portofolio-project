@@ -361,7 +361,7 @@
     .add-project:hover .add-icon { border-color: #555; }
 
     .add-label {
-      font-size: 10px;
+      font-size: 25px;
       letter-spacing: 0.15em;
       text-transform: uppercase;
     }
